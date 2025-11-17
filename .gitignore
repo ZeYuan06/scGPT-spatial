@@ -4,4 +4,6 @@ checkpoints/
 data/
 figures/
 
+baselines/seurat_rpca_results/
+
 .vscode/

@@ -246,8 +246,8 @@ class SeuratRPCAPipeline:
             ari_=True, 
             cell_cycle_=False,
             kBET_=False,
-            ilisi_=True,
-            clisi_=True,
+            ilisi_=False,
+            clisi_=False,
         )
         
         result_dict = results[0].to_dict()

@@ -8,3 +8,5 @@ baselines/seurat_rpca_results/
 baselines/pca_results/
 
 .vscode/
+
+*.out
